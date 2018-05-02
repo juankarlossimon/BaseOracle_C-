@@ -1,0 +1,25 @@
+﻿.contac div{
+     float:left;
+}
+
+.General div {
+    float:left;
+    padding:10px;
+}
+
+
+section {
+    width: 100%;
+    overflow: auto;
+    float: right;
+    background: #FFF;
+}
+
+.ContenedorElementos {
+  /* background-color: #fafafa;*/
+    margin: 1rem;
+    padding: 1rem;
+   /*border: 2px solid #ccc;*/
+    /* IMPORTANTE */
+ 
+}
